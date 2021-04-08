@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TB.DAL", "TB.DAL\TB.DAL.csproj", "{914524B6-62E0-4E52-88F7-1E37C4E1605B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TB.BLL", "TB.BLL\TB.BLL.csproj", "{EBCF075B-AEDA-4C13-8E99-1432D0264CA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914524B6-62E0-4E52-88F7-1E37C4E1605B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914524B6-62E0-4E52-88F7-1E37C4E1605B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914524B6-62E0-4E52-88F7-1E37C4E1605B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914524B6-62E0-4E52-88F7-1E37C4E1605B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EBCF075B-AEDA-4C13-8E99-1432D0264CA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBCF075B-AEDA-4C13-8E99-1432D0264CA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBCF075B-AEDA-4C13-8E99-1432D0264CA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBCF075B-AEDA-4C13-8E99-1432D0264CA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAF3A61C-1303-4D20-8013-F7FA44BF5C36}
+	EndGlobalSection
+EndGlobal

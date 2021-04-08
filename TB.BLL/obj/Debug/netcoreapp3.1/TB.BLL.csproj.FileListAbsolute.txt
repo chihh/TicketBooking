@@ -1,0 +1,4 @@
+C:\Users\user\source\repos\TicketBooking\TB.BLL\bin\Debug\netcoreapp3.1\TB.DAL.dll
+C:\Users\user\source\repos\TicketBooking\TB.BLL\obj\Debug\netcoreapp3.1\TB.BLL.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TicketBooking\TB.BLL\obj\Debug\netcoreapp3.1\TB.BLL.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicketBooking\TB.BLL\obj\Debug\netcoreapp3.1\TB.BLL.AssemblyInfo.cs

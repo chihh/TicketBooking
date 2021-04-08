@@ -1,0 +1,13 @@
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.exe
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.deps.json
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.runtimeconfig.json
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.runtimeconfig.dev.json
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.dll
+C:\Users\user\source\repos\TicketBooking\TicketBooking\bin\Debug\netcoreapp3.1\TicketBooking.pdb
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.csprojAssemblyReference.cache
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.AssemblyInfo.cs
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.dll
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.pdb
+C:\Users\user\source\repos\TicketBooking\TicketBooking\obj\Debug\netcoreapp3.1\TicketBooking.genruntimeconfig.cache
